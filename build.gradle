@@ -23,7 +23,7 @@ dependencies {
 	testImplementation group: 'net.runelite', name:'jshell', version: runeLiteVersion
 }
 
-group = 'com.github.m0bilebtw'
+group = 'com.github.ironicmemes'
 version = '0.2'
 sourceCompatibility = '1.8'
 
