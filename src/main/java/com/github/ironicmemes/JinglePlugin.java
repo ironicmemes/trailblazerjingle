@@ -145,9 +145,6 @@ public class JinglePlugin extends Plugin
 
 		// If we get here, 'skill' was leveled up!
 		if (config.announceLevelUp()) {
-			if (config.showChatMessages()) {
-				client.addChatMessage(ChatMessageType.PUBLICCHAT, C_ENGINEER, "Level up: completed.", null);
-			}
 			soundEngine.playClip(Sound.LEVEL_UP);
 		}
 	}
