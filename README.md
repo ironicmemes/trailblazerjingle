@@ -1,6 +1,7 @@
 # Trailblaizer achievement jingle
 ##### A plugin for [RuneLite](https://runelite.net/)
 The jingle from Leagues II: Trailblazer plays when you complete an achievement
+Basically just modified m0bilebtw's c-engineer announcer plugin (https://runelite.net/plugin-hub/show/c-engineer-completed) so check that out
 
 ### Announcement options include
 - level ups
